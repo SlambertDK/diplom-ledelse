@@ -12,6 +12,7 @@ _Sandhedskilden for alle agenter der arbejder på opgaven_
 - **Aflevering:** 1. maj 2026
 - **Forsvar:** 1. juni 2026
 - **Kildesystem:** Harvard
+- **Vejleder:** Hannie — hw@indranet.dk (problemformulering sendt 16. marts 2026)
 
 ## Problemformulering
 **Hvordan kan jeg som Product Owner i Energinets Digital Accelerator udøve ledelse i et regulatorisk afgrænset og risikofølsomt ledelsesrum, så digitale eksperimenter omsættes til varig organisatorisk forandring, uden at kompromittere organisationens governance- og compliancekrav?**

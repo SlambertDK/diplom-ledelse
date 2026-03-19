@@ -1,5 +1,6 @@
 # Diplom i Ledelse — Kontekstfil
 _Sandhedskilden for alle agenter der arbejder på opgaven_
+_Sidst opdateret: 2026-03-19 (Evening Sync)_
 
 ## Om Henrik
 - 46 år, dansk, arbejder hos Energinet (systemansvarlig for el og gas i Danmark)
@@ -9,13 +10,13 @@ _Sandhedskilden for alle agenter der arbejder på opgaven_
 ## Opgave-fakta
 - **Type:** Diplomopgave i Ledelse
 - **Omfang:** ca. 50 sider
-- **Aflevering:** 1. maj 2026
+- **Aflevering:** 1. maj 2026 (43 dage)
 - **Forsvar:** 1. juni 2026
 - **Kildesystem:** Harvard
 - **Vejleder:** Hannie — hw@indranet.dk (problemformulering sendt 16. marts 2026)
 
-## Problemformulering
-**Hvordan kan jeg som Product Owner i Energinets Digital Accelerator udøve ledelse i et regulatorisk afgrænset og risikofølsomt ledelsesrum, så digitale eksperimenter omsættes til varig organisatorisk forandring, uden at kompromittere organisationens governance- og compliancekrav?**
+## Problemformulering (opdateret — endelig version i Google Doc)
+**Hvordan kan en leder uden formel autoritet fremme adoptionsprocessen for digitale eksperimenter fra en innovationsenhed til modtagende enheder i en reguleret organisation, når organisationens governance- og compliancekrav samtidig skal respekteres?**
 
 ### Kernen i paradokset
 - Innovation kræver eksperimentering, fejl og hurtighed
@@ -42,24 +43,43 @@ _Sandhedskilden for alle agenter der arbejder på opgaven_
 9. Litteraturliste (Harvard, alfabetisk, kun aktivt brugte kilder)
 10. Bilag (supplerende, ikke afgørende)
 
-## Status på kapitler
-| Kapitel | Status | Sidetal |
-|---------|--------|---------|
-| 1. Indledning | ⬜ Ikke startet | ~3 s |
-| 2. Problemstilling | ⬜ Ikke startet | ~3 s |
-| 3. Problemformulering | ⬜ Ikke startet | ~1 s |
-| 4. Metoderedegørelse | ⬜ Ikke startet | ~5 s |
-| 5. Analyse | ⬜ Ikke startet | ~25 s |
-| 6. Konklusion | ⬜ Ikke startet | ~3 s |
-| 7. Perspektivering | ⬜ Ikke startet | ~2 s |
-| Litteraturliste | ⬜ Ikke startet | ~2 s |
+## Status på kapitler (opdateret 2026-03-19)
+| Kapitel | Status | Note |
+|---------|--------|------|
+| 1. Indledning | ✅ SKREVET | I Google Doc — energisystem, Digital Accelerator, paradoks |
+| 2. Problemstilling | ✅ SKREVET | I Google Doc — 3 alternativer afprøvet, strukturel forklaring |
+| 3. Problemformulering | ✅ SKREVET | To [UDFYLDES] af Henrik: tidsperiode + ét/flere cases |
+| 4. Metoderedegørelse | ✅ SKREVET | Fænomenologi, hermeneutik, Yukl, Rogers, Kotter, Nonaka |
+| 5. Analyse | ⬜ Næste sprint | ~25 sider — hoveddelen |
+| 6. Konklusion | ⬜ Ikke startet | ~3 sider |
+| 7. Perspektivering | ⬜ Ikke startet | ~2 sider |
+| Litteraturliste | ⬜ Ikke startet | ~2 sider |
 | Bilag | ⬜ Ikke startet | variabel |
 
-## Pensum
-_[UDFYLDES — titel, forfatter, år per linje]_
+## ⚠️ Venter på Henrik
+- [ ] **Kap. 3 tidsperiode:** Hvornår dækker empirien? (fx jan 2025–marts 2026)
+- [ ] **Kap. 3 cases:** Ét konkret eksperiment eller flere parallelle cases?
+- [ ] **Pensumliste** (GitHub issue #4)
+
+## Teorier i brug
+- **Yukl** (2013) — Indflydelsestaktikker, lateral ledelse
+- **Rogers** (2003) — Diffusion of Innovations, 5 adoptionsfaktorer
+- **Kotter** (1996) — Forandringsledelse, guidende koalitioner
+- **Nonaka & Takeuchi** (1995) — Tavs/eksplicit viden, socialisering
+- **March & Simon** (1958) + **Brunsson** (1985) — Risikominimerende beslutningslogik
+- **Flyvbjerg** (2010) + **Yin** (2018) — Casestudie-metodologi
+- **Zahavi** (2003) — Fænomenologi
+- **Gadamer** (2004) — Hermeneutik
+- **Berger & Luckmann** (1966) — Socialkonstruktivisme
+- **Kvale & Brinkmann** (2015) — Kvalitativ metode
+- **McNiff & Whitehead** (2011) — Aktionsforskning
+
+## Google Doc
+ID: 1AVeSmhnBZdb1iMSrAhyGImvew2wDmfeiTplcdkruYCI
+URL: https://docs.google.com/document/d/1AVeSmhnBZdb1iMSrAhyGImvew2wDmfeiTplcdkruYCI/edit
 
 ## Empiri
-_[UDFYLDES — hvilken type, hvad er indsamlet, hvornår]_
+_[UDFYLDES af Henrik — type, hvad er indsamlet, tidsperiode]_
 
 ## Agentens rolle
 Når du arbejder på denne opgave:

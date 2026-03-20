@@ -1,6 +1,6 @@
 # Diplom i Ledelse — Kontekstfil
 _Sandhedskilden for alle agenter der arbejder på opgaven_
-_Sidst opdateret: 2026-03-19 (Evening Sync)_
+_Sidst opdateret: 2026-03-20 (Evening Sync)_
 
 ## Om Henrik
 - 46 år, dansk, arbejder hos Energinet (systemansvarlig for el og gas i Danmark)
@@ -10,7 +10,7 @@ _Sidst opdateret: 2026-03-19 (Evening Sync)_
 ## Opgave-fakta
 - **Type:** Diplomopgave i Ledelse
 - **Omfang:** ca. 50 sider
-- **Aflevering:** 1. maj 2026 (43 dage)
+- **Aflevering:** 1. maj 2026 (41 dage fra 20. marts)
 - **Forsvar:** 1. juni 2026
 - **Kildesystem:** Harvard
 - **Vejleder:** Hannie — hw@indranet.dk (problemformulering sendt 16. marts 2026)
@@ -43,20 +43,20 @@ _Sidst opdateret: 2026-03-19 (Evening Sync)_
 9. Litteraturliste (Harvard, alfabetisk, kun aktivt brugte kilder)
 10. Bilag (supplerende, ikke afgørende)
 
-## Status på kapitler (opdateret 2026-03-19)
+## Status på kapitler (opdateret 2026-03-20)
 | Kapitel | Status | Note |
 |---------|--------|------|
 | 1. Indledning | ✅ SKREVET | I Google Doc — energisystem, Digital Accelerator, paradoks |
 | 2. Problemstilling | ✅ SKREVET | I Google Doc — 3 alternativer afprøvet, strukturel forklaring |
 | 3. Problemformulering | ✅ SKREVET | To [UDFYLDES] af Henrik: tidsperiode + ét/flere cases |
 | 4. Metoderedegørelse | ✅ SKREVET | Fænomenologi, hermeneutik, Yukl, Rogers, Kotter, Nonaka |
-| 5. Analyse | ⬜ Næste sprint | ~25 sider — hoveddelen |
+| 5. Analyse | ⬜ Næste sprint | ~25 sider — hoveddelen. Afventer Henriks svar på empirispørgsmål |
 | 6. Konklusion | ⬜ Ikke startet | ~3 sider |
 | 7. Perspektivering | ⬜ Ikke startet | ~2 sider |
 | Litteraturliste | ⬜ Ikke startet | ~2 sider |
 | Bilag | ⬜ Ikke startet | variabel |
 
-## ⚠️ Venter på Henrik
+## ⚠️ Venter på Henrik (BLOKERER Analyse-sprint)
 - [ ] **Kap. 3 tidsperiode:** Hvornår dækker empirien? (fx jan 2025–marts 2026)
 - [ ] **Kap. 3 cases:** Ét konkret eksperiment eller flere parallelle cases?
 - [ ] **Pensumliste** (GitHub issue #4)

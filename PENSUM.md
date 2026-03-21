@@ -49,3 +49,18 @@ Henrik Lamberts Zotero-bibliotek. Hentet via API 2026-03-21.
 ---
 
 *39 kilder i alt*
+
+---
+
+## ⚠️ Kilder brugt i opgaven men IKKE i Zotero
+
+Disse skal dokumenteres og tilføjes Zotero inden aflevering:
+
+- **Yukl, G.** — Leadership in Organizations (bruges i kap. 4)
+- **Rogers, E.M.** — Diffusion of Innovations (bruges i kap. 4)
+- **Kotter, J.P.** — Leading Change (bruges i kap. 4)
+- **Nonaka, I. & Takeuchi, H.** — The Knowledge-Creating Company (bruges i kap. 4)
+- **March, J.G. & Simon, H.A.** (1958) — Organizations (bruges i kap. 1+2)
+- **Brunsson, N.** (1985) — The Irrational Organization (bruges i kap. 1+2)
+
+*Disse skal verificeres, tilføjes Zotero og sikres korrekt Harvard-citation inden aflevering 1. maj.*
